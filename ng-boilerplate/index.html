@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+    <script src="https://cdn.firebase.com/v0/firebase.js"></script>
+</head>
+
+<body ng-app="euler1" ng-controller='divisible_by_3_or_5'>
+  <h1>Project Euler Multiples of 3 or 5</h1>
+  <p><strong>For every number below the number input get the sum of numbers that are divisible by 3 OR 5</strong></p>
+    Number <input type='number' ng-model='max' />
+    <a class='btn btn-default' ng-click='findNum();'>Enter</a>
+    <p>Number: {{max}}</p>
+    <p>Sum of numbers divisible by 3 or 5: {{sum}}</p>
+</body>
+<script type="text/javascript" src='js/jquery.js'></script>
+<script type="text/javascript" src='js/angular.min.js'></script>
+<script type="text/javascript" src='js/angular-route.js'></script>
+<script type="text/javascript" src='js/angularfire.min.js'></script>
+<script type="text/javascript" src='js/app.js'></script>
+<script type="text/javascript" src='js/bootstrap.min.js'></script>
+
+</html>
