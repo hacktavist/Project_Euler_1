@@ -5,4 +5,4 @@ for (i = 0; i < 1000; i++) {
     sum += i;
   }
 }
-console.log('Sum: %d', sum);
+console.log('Sum of numbers is %d', sum);
