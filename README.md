@@ -8,3 +8,5 @@ Project Euler Solution 1
 * I have also changed the structure of folders to have the js solution seperate from the angular solution
 
 The ng-boilerplate code that I have used comes from github user [benwells](https://github.com/benwells/ng-boilerplate). It is great for getting a mockup angular app together in just a few minutes.
+
+* just checking out the git-plus package for atom
