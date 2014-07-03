@@ -10,3 +10,4 @@ Project Euler Solution 1
 The ng-boilerplate code that I have used comes from github user [benwells](https://github.com/benwells/ng-boilerplate). It is great for getting a mockup angular app together in just a few minutes.
 
 * just checking out the git-plus package for atom
+* testing branch features of git-plus package now
